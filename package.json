@@ -1,0 +1,25 @@
+{
+  "name": "assets-json-plugin",
+  "version": "1.0.0",
+  "description": "assets json for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yi-love/assets-json-plugin.git"
+  },
+  "keywords": [
+    "assets",
+    "json",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Yi-love",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yi-love/assets-json-plugin/issues"
+  },
+  "homepage": "https://github.com/Yi-love/assets-json-plugin#readme"
+}
